@@ -19,7 +19,7 @@ Here are some of my best projects that I've built recently, while working hard b
 Still Work in Process (WIP), while Digging my brains on what I'm capable with 🤣🧠🔧🐒
 
 ### Collaborate with Me 🙋‍♂️
-I'm *Open to Collaborate* for Language Translation, Web Developments, Data Analysis / Science & MLE.  It can be anything, and I'm willing to learn something New 🧠💡
+I'm **Open to Collaborate** for Language Translation, Web Developments, Data Analysis / Science & MLE.  It can be anything, and I'm willing to learn something New 🧠💡
 
 <!--
 **chrisshuo123/chrisshuo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
