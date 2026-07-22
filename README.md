@@ -1,4 +1,4 @@
-Hi there 👋 I'm Christian, specializes in Fullstack Web Development (both Front-End and Back-End), Data Analysis / Science, and Machine Learning Engineering (MLE) from Indonesia in Surabaya, currently looking for Software Engineering Positions while working hard building my portfolios through my pile of works commited through last years.  Other than programming, my work also spans to Search Engine Optimization (SEO), Search Engine Marketing (SEM), and Design where as a programmer (primarily front-end) also help designer's burden, eventhough in return designers can't help programmer's LOL 😅
+Hi there 👋 I'm Christian, specializes in Fullstack Web Development (both Front-End and Back-End), Data Analysis / Science, and Machine Learning Engineering (MLE) from Indonesia in Surabaya, currently looking for Software Engineering Positions while working hard building my portfolios through my pile of works commited through last years.  Other than programming, my work also spans to Search Engine Optimization (SEO), Search Engine Marketing (SEM), and Design where as a programmer (primarily front-end) also help designer's burden, eventhough in return most designers can't help programmer's LOL 😅
 
 #### ⚡⚡ Fun facts about me: 🎉🎉
 Other than programming, to ease our Left Brain Damages caused by those Git Commits Anxiety 🧠🔧:
@@ -16,7 +16,7 @@ Here are some of my best projects that I've built recently:
 - There's still plenty more, where I still have to fix those Buggggs 🐛🔧🐒
 
 #### My Programming Gigs
-still Work in Process (WIP), while fixing my brains from bunch of commits 🤣🧠🔧🐒
+Still Work in Process (WIP), while Digging my brains on what I'm capable with 🤣🧠🔧🐒
 
 <!--
 **chrisshuo123/chrisshuo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
