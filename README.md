@@ -15,8 +15,11 @@ Here are some of my best projects that I've built recently:
 - **🌐🥋 Shidokan Kyokushin Company Profile:** <br>Build a web from scratch for a small kyokushin organization using full code fullstack.  For the front-end, I start with simple HTML, CSS, JS, JQuery and host it via _github.io_ Github Pages, while developing the PHP Serverside and the MySQL Databases for the back-end.  After successfully build the backend we then apply MVC Principles complete with Business Logic and Controllers to help the page scales while finally migrate our github pages to cPanel Host for the serverside functions.
 - There's still plenty more, where I still have to fix those Buggggs 🐛🔧🐒
 
-#### My Programming Gigs
+#### My Programming Tool Gigs 🧰⌨
 Still Work in Process (WIP), while Digging my brains on what I'm capable with 🤣🧠🔧🐒
+
+### Collaborate with Me 🙋‍♂️
+I'm *Open to Collaborate* for Language Translation, Web Developments, Data Analysis / Science & MLE.  It can be anything, and I'm willing to learn something New 🧠💡
 
 <!--
 **chrisshuo123/chrisshuo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
