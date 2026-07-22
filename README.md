@@ -9,7 +9,7 @@ Other than programming, to ease our Left Brain Damages caused by those Git Commi
 - **🎉 Hobby:** <br>Automotives 🛵🚗, adventures 🎒👣, and doing Martial Arts workout 🥋
 
 ### Some of my Portfolios by far 🖥💻
-Here are some of my best projects that I've built recently:
+Here are some of my best projects that I've built recently, while working hard building my portfolios through Github Page:
 - **🚗🚘 Automotive API:** <br>An API that Store lists of cars database.  If the project is on-going, we add more API vehicles, with 3D lowpoly vehicles.
 - **📊🔎 Fraud Detection Machine Learning:** <br>Finds 2 features that correlates with fraud activities, and present them through EDA (Explanatory Data Analysis), continue with data cleaning, preprocessing, scalling, clustering, and classification supervised learning.
 - **🌐🥋 Shidokan Kyokushin Company Profile:** <br>Build a web from scratch for a small kyokushin organization using full code fullstack.  For the front-end, I start with simple HTML, CSS, JS, JQuery and host it via _github.io_ Github Pages, while developing the PHP Serverside and the MySQL Databases for the back-end.  After successfully build the backend we then apply MVC Principles complete with Business Logic and Controllers to help the page scales while finally migrate our github pages to cPanel Host for the serverside functions.
