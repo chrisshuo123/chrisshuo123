@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Christian from Indonesia, currently I'm looking for Software Engineering Positions while working hard building my portfolios through my pile of works commited in the last years.
+
+#### Fun fact about me:
+- **🐶 Dog & 🐱 Cat Lovers:** I have 2 dogs, and 6 cats, where most of my cats are saved from the streets.
+- **🤡 Joins comedy:** I join the humor911 global comedy community, where people from all around the world gathers and bring laughters, where you can join too for free!  Wanna join the laughters? Join us via Instagram at [@humor911factory](https://instagram.com/humor911factory)
 
 <!--
 **chrisshuo123/chrisshuo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
