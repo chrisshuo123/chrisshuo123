@@ -1,5 +1,8 @@
 ## Hi there 👋
-I'm Christian from Indonesia, currently I'm looking for Software Engineering Positions while working hard building my portfolios through my pile of works commited in the last years.
+I'm Christian, specializes in Fullstack Web Development (both Front-End and Back-End), Data Analysis / Science, and Machine Learning Engineering (MLE).  I live in Indonesia, currently looking for Software Engineering Positions while working hard building my portfolios through my pile of works commited through last years.  Here are some of my best projects that I've built recently:
+- **🚗🚘 Automotive API:** An API that Store lists of cars database.  If the project is on-going, we add more API vehicles, with 3D lowpoly vehicles.
+- **📊🔎 Fraud Detection Machine Learning:** Finds 2 features that correlates with fraud activities, and present them through EDA (Explanatory Data Analysis), continue with data cleaning, preprocessing, scalling, clustering, and classification supervised learning.
+- **🌐🥋 Shidokan Kyokushin Company Profile:** Build a web from scratch for a small kyokushin organization using full code fullstack.  For the front-end, I start with simple HTML, CSS, JS, JQuery and run it via github.io Github Pages, while developing the PHP Serverside and the MySQL Databases for the back-end.  After successfully running the web, To make the web functions while scalling with more pages, I also apply the MVC Principles complete with Business Logic and Controllers.
 
 #### Fun fact about me:
 - **🐶 Dog & 🐱 Cat Lovers:** I have 2 dogs, and 6 cats, where most of my cats are saved from the streets.
